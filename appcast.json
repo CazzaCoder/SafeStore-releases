@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "45",
-  "notes": "Build 45 — resilient auto-update: the update feed and DMG now publish to GitHub (primary) with Google Drive as an automatic fallback, so a bad link on one host no longer blocks updates. No changes to backup behaviour.",
+  "build": "47",
+  "notes": "Build 47 \u2014 the uncommitted work of the last four sessions, split into reviewable feature commits and audited slice by slice. Fixes a case where a card holding two weddings, read through a marginal reader, could copy the other wedding's clips into this couple's folder without ever asking. Hardens the updater: a quote in a release note can no longer break the update feed, an update can no longer install over a running deletion, and a build your Mac is too old to run is refused instead of installed. No change to how footage is copied or verified.",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-45/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-47/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-07-24T06:25:46Z"
+  "publishedAt": "2026-07-30T00:29:02Z"
 }
