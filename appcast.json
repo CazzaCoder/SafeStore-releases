@@ -1,9 +1,9 @@
 {
   "version": "0.2",
   "build": "47",
-  "notes": "Build 47 \u2014 the uncommitted work of the last four sessions, split into reviewable feature commits and audited slice by slice. Fixes a case where a card holding two weddings, read through a marginal reader, could copy the other wedding's clips into this couple's folder without ever asking. Hardens the updater: a quote in a release note can no longer break the update feed, an update can no longer install over a running deletion, and a build your Mac is too old to run is refused instead of installed. No change to how footage is copied or verified.",
+  "notes": "Stability and safety improvements.\n\n- Sony MXF clips are checked properly instead of sometimes being reported as damaged\n- Cards holding two shoots always ask before copying, even when the card is slow to read\n- Fixed a rare case where one shoot's clips could be copied into another couple's folder\n- Delivery receipts are more reliable, and never replaced with a worse one\n- No change to how footage is copied or verified",
   "minOS": "13.0",
   "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-47/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-07-30T00:29:02Z"
+  "publishedAt": "2026-07-30T00:35:08Z"
 }
