@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "47",
-  "notes": "Stability and safety improvements.\n\n- Sony MXF clips are checked properly instead of sometimes being reported as damaged\n- Cards holding two shoots always ask before copying, even when the card is slow to read\n- Fixed a rare case where one shoot's clips could be copied into another couple's folder\n- Delivery receipts are more reliable, and never replaced with a worse one\n- No change to how footage is copied or verified",
+  "build": "51",
+  "notes": "Faster finishes, clearer warnings, and plainer wording throughout.\n\n- Devices are named by what they are (Main Camera, Drone, Audio) instead of numbered slots\n- On a fast backup drive, footage checks now run alongside the copy, so a transfer finishes sooner\n- A warning if you insert a card whose footage is already backed up under another couple\n- SafeStore tells you if uploads stop moving \u2014 your backup carries on, and uploads resume on their own\n- The way footage is copied and verified is unchanged",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-47/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-51/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-07-30T00:35:08Z"
+  "publishedAt": "2026-07-31T06:36:47Z"
 }
