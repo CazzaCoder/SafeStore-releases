@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "54",
-  "notes": "Move finished backups between drives, and stronger checks before a card says it's safe to format. The way footage is copied and verified is unchanged.\n\n- You can move a finished backup to another drive \u2014 every file is checked against the original before anything is removed\n- At the end of a run SafeStore re-checks that Dropbox really has everything, and re-uploads anything that went missing\n- A card no longer says \"safe to format\" if its Dropbox copy has been deleted or changed\n- Uploads that stop moving now start themselves again\n- Reporting a bug from inside the app works again \u2014 it used to hang on \"Sending\u2026\" forever",
+  "build": "57",
+  "notes": "A new look, and a fix for the blank window.\n\n- Fixed: opening a transfer you'd paused could show an empty window\n- Cards that look alike can no longer be mixed up if you swap them mid-transfer\n- Redesigned throughout, with a new sidebar\n- Uploads back off more sensibly when Dropbox is busy\n- No change to how footage is copied or verified",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-54/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-57/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-05T04:32:30Z"
+  "publishedAt": "2026-08-10T20:52:07Z"
 }
