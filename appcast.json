@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "57",
-  "notes": "A new look, and a fix for the blank window.\n\n- Fixed: opening a transfer you'd paused could show an empty window\n- Cards that look alike can no longer be mixed up if you swap them mid-transfer\n- Redesigned throughout, with a new sidebar\n- Uploads back off more sensibly when Dropbox is busy\n- No change to how footage is copied or verified",
+  "build": "59",
+  "notes": "Safer cards, and local backups now wait three months before you can delete them.\n\n- A card that was formatted and put back in no longer reads as safe to format\n- Audio from the camera's MI shoe stays with the footage\n- Discard only deletes the local copy, and only after three months from the wedding date\n- The app never deletes from Dropbox \u2014 a wrong upload is a hand fix in Dropbox now\n- Older transfers may ask you to Re-check Dropbox before Discard. That's expected.",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-57/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-59/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-10T20:52:07Z"
+  "publishedAt": "2026-08-13T04:09:05Z"
 }
