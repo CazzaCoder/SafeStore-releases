@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "59",
-  "notes": "Safer cards, and local backups now wait three months before you can delete them.\n\n- A card that was formatted and put back in no longer reads as safe to format\n- Audio from the camera's MI shoe stays with the footage\n- Discard only deletes the local copy, and only after three months from the wedding date\n- The app never deletes from Dropbox \u2014 a wrong upload is a hand fix in Dropbox now\n- Older transfers may ask you to Re-check Dropbox before Discard. That's expected.",
+  "build": "60",
+  "notes": "Please update SafeStore this week. In about 7 days, older copies will stop writing the Storytellers upload log.\n\n- Your backup and Dropbox upload still work if you don't update; the office just stops seeing the log\n- Card and wrap-up reliability fixes\n- No change to how footage is copied or verified",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-59/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-60/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-13T04:09:05Z"
+  "publishedAt": "2026-08-14T05:57:31Z"
 }
