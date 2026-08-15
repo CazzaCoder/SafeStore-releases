@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "60",
-  "notes": "Please update SafeStore this week. In about 7 days, older copies will stop writing the Storytellers upload log.\n\n- Your backup and Dropbox upload still work if you don't update; the office just stops seeing the log\n- Card and wrap-up reliability fixes\n- No change to how footage is copied or verified",
+  "build": "61",
+  "notes": "Uploads finish even when Dropbox already has a file with the same name.\n\n- A leftover file in your own folder no longer leaves the last upload stuck\n- That leftover is kept; the new file is delivered next to it\n- Photography cards now say photos instead of clips\n- Light or dark theme can be chosen in Settings\n- Transfer header no longer sits under the window buttons on newer macOS",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-60/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-61/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-14T05:57:31Z"
+  "publishedAt": "2026-08-15T00:02:03Z"
 }
