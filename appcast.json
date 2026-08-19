@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "61",
-  "notes": "Uploads finish even when Dropbox already has a file with the same name.\n\n- A leftover file in your own folder no longer leaves the last upload stuck\n- That leftover is kept; the new file is delivered next to it\n- Photography cards now say photos instead of clips\n- Light or dark theme can be chosen in Settings\n- Transfer header no longer sits under the window buttons on newer macOS",
+  "build": "62",
+  "notes": "Fixes from the last few days in the field.\n\n- Same-name leftover on Dropbox: both files stay \u2014 don't delete either until the office says so\n- Re-check Dropbox when a finished transfer has Dropbox problems (no card). Resume still asks for the card if copy isn't done\n- Discarding a whole transfer now needs the couple name typed in\n- Audio cards that aren't okay to format now say why on the row\n- Two Mini Recorder USB volumes: you pick which one. You can also check a backup folder without writing to the drive",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-61/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-62/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-15T00:02:03Z"
+  "publishedAt": "2026-08-19T06:03:42Z"
 }
