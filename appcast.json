@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "62",
-  "notes": "Fixes from the last few days in the field.\n\n- Same-name leftover on Dropbox: both files stay \u2014 don't delete either until the office says so\n- Re-check Dropbox when a finished transfer has Dropbox problems (no card). Resume still asks for the card if copy isn't done\n- Discarding a whole transfer now needs the couple name typed in\n- Audio cards that aren't okay to format now say why on the row\n- Two Mini Recorder USB volumes: you pick which one. You can also check a backup folder without writing to the drive",
+  "build": "63",
+  "notes": "Sony Mini Recorder over USB is easier, and a damaged card can use its twin.\n\n- Two USB volumes from one handheld: Choose volumes, pick the dates on each, then start\n- If a card looks damaged, you can check or try the matching second SD\n- Pulling an SD that was never backed up is a small corner notice, not a full-screen takeover\n- Pulling a card mid-backup is still the big warning\n- How footage is copied and verified is unchanged",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-62/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-63/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-19T06:06:34Z"
+  "publishedAt": "2026-08-20T01:29:57Z"
 }
