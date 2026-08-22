@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "63",
-  "notes": "Sony Mini Recorder over USB is easier, and a damaged card can use its twin.\n\n- Two USB volumes from one handheld: Choose volumes, pick the dates on each, then start\n- If a card looks damaged, you can check or try the matching second SD\n- Pulling an SD that was never backed up is a small corner notice, not a full-screen takeover\n- Pulling a card mid-backup is still the big warning\n- How footage is copied and verified is unchanged",
+  "build": "64",
+  "notes": "Leftover cards, copy, and the transfer page.\n\n- Tools now has Check cards to format \u2014 it tells you if leftover SDs still hold a wedding's takes\n- Tap the backup or Dropbox path on a transfer to open it\n- Copy is more careful when the backup drive is still spinning up\n- A leftover card name after a forced eject is not treated as a second card\n- Stopping one wedding no longer holds up the next one's upload",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-63/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-64/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-20T01:29:57Z"
+  "publishedAt": "2026-08-22T01:27:18Z"
 }
