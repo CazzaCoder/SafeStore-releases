@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "64",
-  "notes": "Leftover cards, copy, and the transfer page.\n\n- Tools now has Check cards to format \u2014 it tells you if leftover SDs still hold a wedding's takes\n- Tap the backup or Dropbox path on a transfer to open it\n- Copy is more careful when the backup drive is still spinning up\n- A leftover card name after a forced eject is not treated as a second card\n- Stopping one wedding no longer holds up the next one's upload",
+  "build": "66",
+  "notes": "If a clip didn't fully land on the backup drive, Resume recopies it from the card.\n\n- Names the clip that didn't reach Dropbox\n- Resume asks for the card when the backup copy is short, then recopies it\n- If the drive is still spinning up, it waits instead of saying the card is done\n- Dual-slot twins still auto-fill; empty rows still ask Same camera?\n- Camera thumbnail JPGs are not counted as photos\n- Leftover footage-check chip and Health Check header say what they mean",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-64/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-66/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-22T01:27:18Z"
+  "publishedAt": "2026-08-26T22:45:31Z"
 }
