@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "66",
-  "notes": "If a clip didn't fully land on the backup drive, Resume recopies it from the card.\n\n- Names the clip that didn't reach Dropbox\n- Resume asks for the card when the backup copy is short, then recopies it\n- If the drive is still spinning up, it waits instead of saying the card is done\n- Dual-slot twins still auto-fill; empty rows still ask Same camera?\n- Camera thumbnail JPGs are not counted as photos\n- Leftover footage-check chip and Health Check header say what they mean",
+  "build": "67",
+  "notes": "Stops two people backing up the same role on one drive, and unsticks uploads that were waiting on a leftover Dropbox file.\n\n- Starting a second backup of the same role on the same drive is blocked \u2014 use a different role, or verify from the first transfer\n- A leftover Dropbox file that isn't the same size is moved aside so the rest can finish\n- Resume still finds your transfer if Settings capitalises your name differently",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-66/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-67/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-26T22:45:31Z"
+  "publishedAt": "2026-08-27T02:49:40Z"
 }
