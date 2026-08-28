@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "67",
-  "notes": "Stops two people backing up the same role on one drive, and unsticks uploads that were waiting on a leftover Dropbox file.\n\n- Starting a second backup of the same role on the same drive is blocked \u2014 use a different role, or verify from the first transfer\n- A leftover Dropbox file that isn't the same size is moved aside so the rest can finish\n- Resume still finds your transfer if Settings capitalises your name differently",
+  "build": "68",
+  "notes": "A backup file that copies but will not upload is left alone, and the office can salvage what still reads.\n\n- Resume will not overwrite a full-size backup file that will not read in the middle \u2014 even if a card is seated\n- Tools \u2192 Advanced \u2192 Salvage a backup file copies what still reads onto a new file, then sends the log and that file to SafeStore Diagnostics (not the couple folder)\n- Upload pending names the parked clip when one file is stuck\n- Resume after Stop is more reliable, and a backup drive that is still connected is less likely to be called unplugged",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-67/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-68/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-27T02:49:40Z"
+  "publishedAt": "2026-08-28T01:10:12Z"
 }
