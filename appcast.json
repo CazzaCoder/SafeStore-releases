@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "68",
-  "notes": "A backup file that copies but will not upload is left alone, and the office can salvage what still reads.\n\n- Resume will not overwrite a full-size backup file that will not read in the middle \u2014 even if a card is seated\n- Tools \u2192 Advanced \u2192 Salvage a backup file copies what still reads onto a new file, then sends the log and that file to SafeStore Diagnostics (not the couple folder)\n- Upload pending names the parked clip when one file is stuck\n- Resume after Stop is more reliable, and a backup drive that is still connected is less likely to be called unplugged",
+  "build": "69",
+  "notes": "Salvage no longer quits on a large file, and you can try again if a leftover is already there.\n\n- Salvage can read a whole big clip without the app crashing\n- If a leftover salvage file is already next to the original, tap Replace leftover salvage \u2014 the original is not touched\n- No change to how footage is copied or uploaded",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-68/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-69/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-08-28T01:10:12Z"
+  "publishedAt": "2026-08-28T01:39:21Z"
 }
