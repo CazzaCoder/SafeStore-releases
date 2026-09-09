@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "70",
-  "notes": "SafeStore now catches backup files that look complete but cannot actually be read, and Salvage no longer looks stuck on a long hole.\n\n- If a backup file cannot be read, you will see Backup file unreadable \u2014 plug the SD back in and tap Fix backup. Do not format that card\n- Salvage is quicker when it hits a damaged stretch on the Hub\n- Settings may mention the backup drive's health. USB docks often hide that report \u2014 backups still run\n- How footage is copied and uploaded on a healthy wedding is unchanged",
+  "build": "71",
+  "notes": "Upload from an SSD you already copied to, without the Dropbox app.\n\n- New Settings unlock: Import existing backup (Advanced)\n- SafeStore hashes those files, checks them, then uploads the same way as a normal transfer\n- No change to how a normal Start backup copies or verifies a card",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-70/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-71/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-09-04T03:38:59Z"
+  "publishedAt": "2026-09-09T23:38:57Z"
 }
