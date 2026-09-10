@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "71",
-  "notes": "Upload from an SSD you already copied to, without the Dropbox app.\n\n- New Settings unlock: Import existing backup (Advanced)\n- SafeStore hashes those files, checks them, then uploads the same way as a normal transfer\n- No change to how a normal Start backup copies or verifies a card",
+  "build": "72",
+  "notes": "Transfer journal, drive health in Tools, and a separate Import unlock.\n\n- A running transfer writes a plain-English log and checks it into Dropbox after the first file lands\n- Tools \u2192 Backup drive health lists every shuttle SafeStore has checked\n- Import existing backup has its own access code now \u2014 not the Novare one. Ask if you need it\n- New app icon\n- No change to how a normal Start backup copies or verifies a card",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-71/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-72/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-09-09T23:38:57Z"
+  "publishedAt": "2026-09-10T02:29:05Z"
 }
