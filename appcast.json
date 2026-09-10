@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "72",
-  "notes": "Transfer journal, drive health in Tools, and a separate Import unlock.\n\n- A running transfer writes a plain-English log and checks it into Dropbox after the first file lands\n- Tools \u2192 Backup drive health lists every shuttle SafeStore has checked\n- Import existing backup has its own access code now \u2014 not the Novare one. Ask if you need it\n- New app icon\n- No change to how a normal Start backup copies or verifies a card",
+  "build": "77",
+  "notes": "Settings is easier to scan, and the (?) next to a setting opens on click.\n\n- Settings uses two columns so more fits on one screen\n- Click or briefly hover a (?) for how a setting works \u2014 it fades when you leave it\n- Warnings that matter (format, write test, salvage) still sit on the page\n- No change to how footage is copied or verified",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-72/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-77/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-09-10T02:29:05Z"
+  "publishedAt": "2026-09-10T05:46:55Z"
 }
