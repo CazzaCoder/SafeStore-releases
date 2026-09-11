@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "77",
-  "notes": "Settings is easier to scan, and the (?) next to a setting opens on click.\n\n- Settings uses two columns so more fits on one screen\n- Click or briefly hover a (?) for how a setting works \u2014 it fades when you leave it\n- Warnings that matter (format, write test, salvage) still sit on the page\n- No change to how footage is copied or verified",
+  "build": "78",
+  "notes": "Settings is quieter, and Report a bug is in the sidebar.\n\n- A few old pipeline knobs are gone from Settings \u2014 existing choices still apply\n- Report a bug sits under Settings in the sidebar\n- Light / Dark / Match System still works; the switch is instant\n- No change to how footage is copied or verified",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-77/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-78/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-09-10T05:46:55Z"
+  "publishedAt": "2026-09-11T03:18:14Z"
 }
