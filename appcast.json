@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "80",
-  "notes": "Folders that aren\u2019t named the usual way can still be imported.\n\n- Confirm the wedding date, couple and role before it starts\n- The folder on the drive is never renamed or moved\n- Loose clips sitting beside the camera folders are refused so nothing is skipped\n- No change to how footage is copied or verified from a card",
+  "build": "81",
+  "notes": "Stability and backup-drive safety.\n\n- The app should stay responsive while verifying a large backup instead of freezing until Force Quit\n- Backup-drive health no longer wrongly treats a failing drive as \u201cunknown\u201d and then allowing a new backup\n- Footage checks after a drive reconnect, and reports of damaged clips when the file was only missing from the backup, are more honest\n- How footage is copied and hashed is unchanged",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-80/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-81/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-09-11T12:16:00Z"
+  "publishedAt": "2026-09-15T04:06:34Z"
 }
