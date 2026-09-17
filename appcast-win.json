@@ -1,0 +1,10 @@
+{
+  "version": "0.2",
+  "build": "79",
+  "notes": "SafeStore Windows 0.2.79\n\n- Setup upgrades an existing install in place\n- One main page at a time (no stacked screens)",
+  "minOS": "10.0.17763",
+  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/windows-0.2.79/SafeStoreSetup.exe",
+  "sha256": "f6fe02921639dd169e567dcf465a1d3c5cb27f8ee93395c0ae9868d9b47d6063",
+  "size": 90234302,
+  "publishedAt": "2026-09-17T03:54:10Z"
+}
