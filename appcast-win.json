@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "82",
-  "notes": "New Transfer can pick the couple after Dropbox is connected.\n\n- After Connect, pick the wedding from the live Dropbox list for that date\n- If the folder is not there yet, type the couple in a real name box\n- Novare unlock works in Settings the same way as on Mac\n- Unlock codes stay their own field \u2014 not the Dropbox paste box",
+  "build": "83",
+  "notes": "Windows looks closer to Mac \u2014 text boxes, tools, and GitHub updates.\n\n- Name and code boxes update as you type \u2014 Next and Unlock don't wait for a click-away\n- This PC enrols itself; Records sits in the Dropbox card\n- New Transfer: pick a couple and it moves on; Next is a pill; the calendar is a date grid\n- Switch shooter in Settings or the sidebar; Tools has SD / backup-drive / format check\n- Field lab is off the sidebar. Download in browser uses GitHub first",
   "minOS": "10.0.17763",
-  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-82/SafeStoreSetup.exe",
-  "sha256": "effc72e636ccdf3b068a75c5ae378f6c4598536d2d102d11fe0f6912718decca",
-  "size": 90295742,
-  "publishedAt": "2026-09-18T06:07:18Z",
+  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-83/SafeStoreSetup.exe",
+  "sha256": "2bd15e7b11b89614b46b9da5e4b28805bde11e91c59fba26c75525c3d14f4517",
+  "size": 90398142,
+  "publishedAt": "2026-09-18T06:38:01Z",
   "setupShareUrl": "https://drive.google.com/open?id=1z1lAFyst2LCMkjbToCBsNimL4HIVWuHV"
 }
