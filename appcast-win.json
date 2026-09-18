@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "80",
-  "notes": "First-open Dropbox setup, and updates from GitHub.\n\n- New PCs get a Dropbox connect sheet on first open, with a paste field ready\n- Settings Check for updates downloads from GitHub\n- No change to how footage is copied or verified",
+  "build": "81",
+  "notes": "Dropbox authorization-code box is now a visible bordered TextBox on first-open and in Settings. Click it and press Ctrl+V.",
   "minOS": "10.0.17763",
-  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-80/SafeStoreSetup.exe",
-  "sha256": "c32064c9c0edf07fbf64608d739983035acdf6890325988acfd033415f2b37e1",
+  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-81/SafeStoreSetup.exe",
+  "sha256": "a9ac5e5ce9138b2132623cddaa34efe76ee461dfd4a94d02a9cef06ef5d32244",
   "size": 90283454,
-  "publishedAt": "2026-09-18T05:30:22Z",
+  "publishedAt": "2026-09-18T05:41:21Z",
   "setupShareUrl": "https://drive.google.com/open?id=1z1lAFyst2LCMkjbToCBsNimL4HIVWuHV"
 }
