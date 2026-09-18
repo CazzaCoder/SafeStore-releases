@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "83",
-  "notes": "Windows looks closer to Mac \u2014 text boxes, tools, and GitHub updates.\n\n- Name and code boxes update as you type \u2014 Next and Unlock don't wait for a click-away\n- This PC enrols itself; Records sits in the Dropbox card\n- New Transfer: pick a couple and it moves on; Next is a pill; the calendar is a date grid\n- Switch shooter in Settings or the sidebar; Tools has SD / backup-drive / format check\n- Field lab is off the sidebar. Download in browser uses GitHub first",
+  "build": "84",
+  "notes": "Windows now shows wait spinners and smoother screen changes.\n\n- Loading weddings, Dropbox connect, updates, and Records sign-in show a progress bar\n- Tools scans show a spinner while they run\n- Pages, overlays, and the calendar fade instead of jumping\n- No change to how footage is copied or verified",
   "minOS": "10.0.17763",
-  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-83/SafeStoreSetup.exe",
-  "sha256": "2bd15e7b11b89614b46b9da5e4b28805bde11e91c59fba26c75525c3d14f4517",
-  "size": 90398142,
-  "publishedAt": "2026-09-18T06:38:01Z",
+  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-84/SafeStoreSetup.exe",
+  "sha256": "6bbcf8e9d4c066162795e4588731dfd8b9e5031674eeee876281c0babfd11c33",
+  "size": 90402238,
+  "publishedAt": "2026-09-18T06:48:45Z",
   "setupShareUrl": "https://drive.google.com/open?id=1z1lAFyst2LCMkjbToCBsNimL4HIVWuHV"
 }
