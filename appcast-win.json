@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "81",
-  "notes": "Dropbox authorization-code box is now a visible bordered TextBox on first-open and in Settings. Click it and press Ctrl+V.",
+  "build": "82",
+  "notes": "New Transfer can pick the couple after Dropbox is connected.\n\n- After Connect, pick the wedding from the live Dropbox list for that date\n- If the folder is not there yet, type the couple in a real name box\n- Novare unlock works in Settings the same way as on Mac\n- Unlock codes stay their own field \u2014 not the Dropbox paste box",
   "minOS": "10.0.17763",
-  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-81/SafeStoreSetup.exe",
-  "sha256": "a9ac5e5ce9138b2132623cddaa34efe76ee461dfd4a94d02a9cef06ef5d32244",
-  "size": 90283454,
-  "publishedAt": "2026-09-18T05:41:21Z",
+  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-82/SafeStoreSetup.exe",
+  "sha256": "effc72e636ccdf3b068a75c5ae378f6c4598536d2d102d11fe0f6912718decca",
+  "size": 90295742,
+  "publishedAt": "2026-09-18T06:07:18Z",
   "setupShareUrl": "https://drive.google.com/open?id=1z1lAFyst2LCMkjbToCBsNimL4HIVWuHV"
 }
