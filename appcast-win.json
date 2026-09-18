@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "85",
-  "notes": "Import existing backup now lets you confirm the wedding date, couple and role.\n\n- Type those three fields before the import starts (folder stays where it is)\n- Loading weddings, Dropbox connect, updates, and Records sign-in still show a progress bar\n- Tools scans still show a spinner while they run\n- Pages, overlays, and the calendar still fade instead of jumping\n- No change to how footage is copied or verified",
+  "build": "86",
+  "notes": "New Transfer can pick your name from the wedding roster.\n\n- Tap your card to fill name, role, and cameras\n- Your saved profile name auto-selects you when it matches\n- You can still type a name if the roster is empty or this is a Novare wedding\n- Import still lets you confirm date, couple and role\n- No change to how footage is copied or verified",
   "minOS": "10.0.17763",
-  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-85/SafeStoreSetup.exe",
-  "sha256": "7bbfde655ea041230fcc1751aafc6fed9991acc63833d8de0055da801c73576d",
+  "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-86/SafeStoreSetup.exe",
+  "sha256": "744efedd109d74c4e4ad565f8069a2191c66ff8983bc10b6fc2eac9527c37538",
   "size": 90410430,
-  "publishedAt": "2026-09-18T07:00:13Z",
+  "publishedAt": "2026-09-18T07:17:30Z",
   "setupShareUrl": "https://drive.google.com/open?id=1z1lAFyst2LCMkjbToCBsNimL4HIVWuHV"
 }
