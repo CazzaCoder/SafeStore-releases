@@ -1,10 +1,10 @@
 {
  "version": "0.2",
- "build": "88",
- "notes": "Small update.\n\n- New Transfer lists that day's weddings when Dropbox is already connected",
+ "build": "89",
+ "notes": "Small update.\n\n- You can type in the text fields again, and buttons respond when you click them\n- Long messages can be scrolled so the buttons stay reachable",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-88/SafeStoreSetup.exe",
- "sha256": "8c4998d6118ecec0e63bbb21302d6c36fc3ad923ac93788678f323142d863c83",
+ "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-89/SafeStoreSetup.exe",
+ "sha256": "792d1a6653f1ace6dd301a7e507cd673154b611eb23a1fe7a4e8fc9b257d5aae",
  "size": 90336702,
- "publishedAt": "2026-09-24T03:29:20Z"
+ "publishedAt": "2026-09-24T04:11:32Z"
 }
