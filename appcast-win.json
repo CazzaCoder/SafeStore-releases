@@ -1,10 +1,10 @@
 {
  "version": "0.2",
- "build": "87",
- "notes": "Bugfixes and improvements.\n\n- Stills from a video card can go in Extra Photos instead of sitting with the clips\n- Healthy camera photos are no longer marked as damaged\n- You can pause uploads for a chosen time, up to 12 hours\n- Update now installs the new version from inside the app",
+ "build": "88",
+ "notes": "Small update.\n\n- New Transfer lists that day's weddings when Dropbox is already connected",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-87/SafeStoreSetup.exe",
- "sha256": "4e30b804a8c142a2b4bfbcca3e01a6ea4d676daf788717e29472b6f075a6a433",
- "size": 90328510,
- "publishedAt": "2026-09-24T03:01:19Z"
+ "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-88/SafeStoreSetup.exe",
+ "sha256": "8c4998d6118ecec0e63bbb21302d6c36fc3ad923ac93788678f323142d863c83",
+ "size": 90336702,
+ "publishedAt": "2026-09-24T03:29:20Z"
 }
