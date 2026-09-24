@@ -1,9 +1,9 @@
 {
   "version": "0.2",
-  "build": "82",
-  "notes": "Safer stops and a Dropbox setup on first open.\n\n- If a transfer gets stuck, Stop and Home still respond\n- New Macs get a Dropbox connect sheet on first open\n- No change to how footage is copied or verified",
+  "build": "83",
+  "notes": "Bugfixes and improvements.\n\n- Stills from a video card can go in Extra Photos instead of sitting with the clips\n- Healthy camera photos are no longer marked as damaged\n- You can pause uploads for a chosen time, up to 12 hours\n- Stop comes back even if the backup drive is slow\n- Downloading the update opens the direct link",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-82/SafeStore.dmg",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-83/SafeStore.dmg",
   "dmgShareUrl": "https://drive.google.com/open?id=1Zg7vbMs_SZ9s_fmG3DVD40-ApaOClBhL",
-  "publishedAt": "2026-09-18T05:05:54Z"
+  "publishedAt": "2026-09-24T03:03:28Z"
 }
