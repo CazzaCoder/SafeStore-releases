@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "84",
-  "notes": "Reliability fixes from the last week in the field.\n\n- If the copy helper quits, SafeStore stays open and shows the failure\n- Pausing uploads no longer blanks the window\n- Move a backup fits a smaller screen, and an interrupted move keeps the originals until the new copy checks out\n- A clip with a broken duration no longer crashes the app\n- If the delivery record could not be saved, the transfer says so",
+  "build": "85",
+  "notes": "A large card starts copying instead of sitting at zero.\n\n- A card with thousands of files starts writing straight away, instead of sitting on Copying with nothing saved\n- If a compare cannot finish, the backup stays incomplete and Retry picks those files up. It does not say a different file is already there\n- A file that really is different is still left alone",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-84/SafeStore.dmg",
-  "dmgShareUrl": "https://drive.google.com/open?id=1pzJQMvaFadHMqdy2UwUl3PtnmnVrXHlH",
-  "sha256": "e383047662752bf8fca103e3d0223e2d2518b55fbfa9cc2e13dceceefc49aa57",
-  "size": 9064246,
-  "publishedAt": "2026-09-30T10:51:36Z"
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-85/SafeStore.dmg",
+  "dmgShareUrl": "https://drive.google.com/open?id=1m-KYNuqskYXaYZnO8L0Ithi6u667ahwi",
+  "sha256": "03b306075499c525ca7b152115cdf95280eb7af041de472346e5c915937e256d",
+  "size": 9085795,
+  "publishedAt": "2026-10-04T21:46:30Z"
 }
