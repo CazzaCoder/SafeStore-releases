@@ -1,10 +1,10 @@
 {
  "version": "0.2",
- "build": "90",
- "notes": "The installer now shows which build you are installing.\n\n- Setup shows the build number\n- A clip with a broken duration no longer crashes the app\n- A delete that did not finish is not marked done",
+ "build": "91",
+ "notes": "Cards start copying sooner and transfer status is clearer.\n\n- Large cards begin copying before all files have been compared\n- A copy that stops moving explains that it is waiting on the drive\n- Imported backups finish without waiting for unrelated cards\n- Reconnecting after an offline start no longer asks for an unnecessary folder decision\n- Waiting devices and resolved warnings now show the correct status",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-90/SafeStoreSetup.exe",
- "sha256": "957db766f52e7dc66ebbc39e5b8c80f874837e4c46da37391b1b7473631e1dbb",
- "size": 90414526,
- "publishedAt": "2026-10-02T08:53:00Z"
+ "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-91/SafeStoreSetup.exe",
+ "sha256": "9ca8fd39b4e6406f5b705cc653764fb657c9af96ca85ad89425cbebd407fc02f",
+ "size": 90418622,
+ "publishedAt": "2026-10-05T09:01:27Z"
 }
