@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "85",
-  "notes": "A large card starts copying instead of sitting at zero.\n\n- A card with thousands of files starts writing straight away, instead of sitting on Copying with nothing saved\n- If a compare cannot finish, the backup stays incomplete and Retry picks those files up. It does not say a different file is already there\n- A file that really is different is still left alone",
+  "build": "86",
+  "notes": "Transfers recover more clearly and finish with accurate status.\n\n- Resume starts copying while older backups are checked\n- A copy that stops moving explains that it is waiting on the drive\n- Completed uploads and delivery records stay up to date in open windows\n- Imported backups finish without waiting for unrelated cards\n- Reconnecting after an offline start no longer opens an unnecessary folder-conflict prompt",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-85/SafeStore.dmg",
-  "dmgShareUrl": "https://drive.google.com/open?id=1m-KYNuqskYXaYZnO8L0Ithi6u667ahwi",
-  "sha256": "03b306075499c525ca7b152115cdf95280eb7af041de472346e5c915937e256d",
-  "size": 9085795,
-  "publishedAt": "2026-10-04T21:46:30Z"
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-86/SafeStore.dmg",
+  "dmgShareUrl": "https://drive.google.com/open?id=1X8P8H-iE65DvlyNB1bJteQvVm6b7mfJ0",
+  "sha256": "a37225862494cc6e278a203192460e5c4eaee820023ab301043e742db0455ef7",
+  "size": 9146537,
+  "publishedAt": "2026-10-05T09:00:39Z"
 }
