@@ -1,10 +1,10 @@
 {
  "version": "0.2",
- "build": "91",
- "notes": "Cards start copying sooner and transfer status is clearer.\n\n- Large cards begin copying before all files have been compared\n- A copy that stops moving explains that it is waiting on the drive\n- Imported backups finish without waiting for unrelated cards\n- Reconnecting after an offline start no longer asks for an unnecessary folder decision\n- Waiting devices and resolved warnings now show the correct status",
+ "build": "92",
+ "notes": "Uploads wait for your cards, and a pulled card is explained clearly.\n\n- Uploads start once your cards finish copying, so cards are free sooner\n- If an SD card is pulled mid-copy, SafeStore names the card and how many files still need copying, and Resume says what it needs\n- \"Delivered\" only shows once every file has been copied and uploaded\n- Eject when verified ejects the card for you once every file matches\n- The live file list keeps its place, and the tray icon no longer crashes the app",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-91/SafeStoreSetup.exe",
- "sha256": "9ca8fd39b4e6406f5b705cc653764fb657c9af96ca85ad89425cbebd407fc02f",
- "size": 90418622,
- "publishedAt": "2026-10-05T09:01:27Z"
+ "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-92/SafeStoreSetup.exe",
+ "sha256": "8bab0559aeae191ec5bc48cd046c2a2ffce746bf73167aecc67e14cd8f9e10b4",
+ "size": 90826406,
+ "publishedAt": "2026-10-12T12:12:12Z"
 }
