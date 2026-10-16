@@ -1,11 +1,11 @@
 {
   "version": "0.2",
-  "build": "88",
-  "notes": "Uploads wait for your cards, Eject waits for a full check, and footage checks run faster.\n\n- Uploads start once your cards finish copying, so cards are free sooner\n- Eject appears only when every file matches the card \u2014 or press Eject when verified and it ejects for you\n- The Files list updates live while a card copies, and failed files say why\n- Footage checks finish faster, and a card that drops out for a moment is retried once\n- How files are copied and matched against the card is unchanged",
+  "build": "89",
+  "notes": "SafeStore now handles a backup drive that fills up or goes missing mid-wedding.\n\n- If your backup drive fills up or goes missing, you can move the wedding to another drive or copy the cards onto a new one, and SafeStore keeps track of which drive holds what\n- An empty transfer no longer gets stuck on a drive that's full or missing\n- Adding a second SD card while uploads are running no longer leaves stray files in Dropbox\n- Clearer messages when a drive, card or Dropbox step needs you\n- No change to how footage is copied or verified",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-88/SafeStore.dmg",
-  "dmgShareUrl": "https://drive.google.com/open?id=1-IN3uzkzweIkept6OimDDjWMbMU1DGOi",
-  "sha256": "53f889ecae7a8216212827c0ea76b7adf677c55a696140b5d4fc17db40c15838",
-  "size": 10535563,
-  "publishedAt": "2026-10-12T12:10:48Z"
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-89/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-89/SafeStore.dmg",
+  "sha256": "2199739b095a1892a94fa82a81fee92a4b986b95e034c56376be2dc29efa45ab",
+  "size": 11120655,
+  "publishedAt": "2026-10-16T02:29:53Z"
 }
