@@ -1,10 +1,10 @@
 {
  "version": "0.2",
- "build": "92",
- "notes": "Uploads wait for your cards, and a pulled card is explained clearly.\n\n- Uploads start once your cards finish copying, so cards are free sooner\n- If an SD card is pulled mid-copy, SafeStore names the card and how many files still need copying, and Resume says what it needs\n- \"Delivered\" only shows once every file has been copied and uploaded\n- Eject when verified ejects the card for you once every file matches\n- The live file list keeps its place, and the tray icon no longer crashes the app",
+ "build": "93",
+ "notes": "SafeStore now handles a full or missing backup drive more smoothly.\n\n- An empty transfer no longer gets stuck on a drive that's full or missing\n- Clearer messages when a copy fails\n- No change to how footage is copied or verified",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-92/SafeStoreSetup.exe",
- "sha256": "8bab0559aeae191ec5bc48cd046c2a2ffce746bf73167aecc67e14cd8f9e10b4",
- "size": 90826406,
- "publishedAt": "2026-10-12T12:12:12Z"
+ "setupURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/win-build-93/SafeStoreSetup.exe",
+ "sha256": "90e0c659a81b498bbd7aac753c6191991dee104bbfcdca2636e0ca5cbf716736",
+ "size": 90846886,
+ "publishedAt": "2026-10-16T02:30:06Z"
 }
