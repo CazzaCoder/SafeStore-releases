@@ -1,11 +1,12 @@
 {
-  "version": "0.2",
-  "build": "89",
-  "notes": "SafeStore now handles a backup drive that fills up or goes missing mid-wedding.\n\n- If your backup drive fills up or goes missing, you can move the wedding to another drive or copy the cards onto a new one, and SafeStore keeps track of which drive holds what\n- An empty transfer no longer gets stuck on a drive that's full or missing\n- Adding a second SD card while uploads are running no longer leaves stray files in Dropbox\n- Clearer messages when a drive, card or Dropbox step needs you\n- No change to how footage is copied or verified",
+  "version": "0.3",
+  "build": "97",
+  "notes": "A big update with everything from the last few weeks of testing.\n\n- Faster to open, and screens stay responsive while drives and transfers are checked\n- Drones, RODEs, renamed cards and several backup drives of the same model are all handled properly\n- When the internet is too unstable to upload, SafeStore says so and keeps re-checking Dropbox on its own\n- Cards only show Verified once their backup check has finished, and the damaged-footage alert names the clips\n- Clearer messages when a backup drive is unplugged, renamed or moved, with what to do next",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-89/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-89/SafeStore.dmg",
-  "sha256": "2199739b095a1892a94fa82a81fee92a4b986b95e034c56376be2dc29efa45ab",
-  "size": 11120655,
-  "publishedAt": "2026-10-16T02:29:53Z"
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-97/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-97/SafeStore.dmg",
+  "sha256": "ad9e770362d4ab983af70650ad6beae59b55acc8173fe4bded83d260edfdd31d",
+  "size": 12048627,
+  "publishedAt": "2026-11-06T04:04:04Z",
+  "readsLedgerSchema": 2
 }
