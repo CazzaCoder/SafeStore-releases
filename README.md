@@ -4,9 +4,9 @@ Installers and auto-update feeds only. No app source.
 
 The GitHub **Latest** release has both current builds.
 
-## Current Mac: 97
+## Current Mac: 100
 
-[Download SafeStore.dmg](https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-97/SafeStore.dmg)
+[Download SafeStore.dmg](https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-100/SafeStore.dmg)
 
 Open the app and it updates. For a new Mac, use that DMG — not the Windows installer.
 

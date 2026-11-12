@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "97",
-  "notes": "A big update with everything from the last few weeks of testing.\n\n- Faster to open, and screens stay responsive while drives and transfers are checked\n- Drones, RODEs, renamed cards and several backup drives of the same model are all handled properly\n- When the internet is too unstable to upload, SafeStore says so and keeps re-checking Dropbox on its own\n- Cards only show Verified once their backup check has finished, and the damaged-footage alert names the clips\n- Clearer messages when a backup drive is unplugged, renamed or moved, with what to do next",
+  "build": "100",
+  "notes": "Backup drives that drop out mid-transfer no longer cause false alarms, plus faster screens.\n\n- A backup drive that briefly disconnects no longer marks files as changed, and the transfer carries on by itself once it's plugged back in\n- Cards are recognised by the clips on them, so a reused card is never mistaken for one from an old wedding\n- Each transfer shows its upload speed while uploading\n- Faster, smoother screens\n- If this update won't install: download SafeStore.dmg from the releases page, quit SafeStore with nothing transferring, then drag the new SafeStore into Applications. Updates work by themselves after that",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-97/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-97/SafeStore.dmg",
-  "sha256": "ad9e770362d4ab983af70650ad6beae59b55acc8173fe4bded83d260edfdd31d",
-  "size": 12048627,
-  "publishedAt": "2026-11-06T04:04:04Z",
+  "dmgURL": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-100/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/SafeStore-releases/releases/download/build-100/SafeStore.dmg",
+  "sha256": "e35bd5904f5489f34f6a0f7e91d4ac2d54545adefc456c96a5432df1ebbb8f79",
+  "size": 12495809,
+  "publishedAt": "2026-11-12T22:59:31Z",
   "readsLedgerSchema": 2
 }
